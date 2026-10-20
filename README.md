@@ -18,7 +18,7 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 - 📍 Basé dans la région d'Orléans.
 - 🧩 J'aime résoudre des problèmes concrets et faire évoluer un projet de l'idée à une application utilisable.
 - 🔧 J'ai travaillé avec Python, Flask, TypeScript, React, PostgreSQL, Docker et Git.
-- 🎮 En ce moment, je développe **Bonkumi**, un jeu d'arène multijoueur en temps réel.
+- 🎮 En ce moment, je développe [**Bonkumi**](https://github.com/JolanRolland/Bonkumi), un jeu d'arène multijoueur en temps réel.
 
 ## Expérience
 
@@ -32,8 +32,9 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 
 | Projet | Ce que j'y ai construit | Technologies |
 | --- | --- | --- |
-| **🎮 Bonkumi** · projet personnel, dépôt privé | Jeu d'arène multijoueur avec rendu Canvas, communication WebSocket et données persistées. Travail sur les mécaniques de jeu et l'architecture client/serveur. | TypeScript, Canvas 2D, WebSocket, Node.js, PostgreSQL |
+| **[🎮 Bonkumi](https://github.com/JolanRolland/Bonkumi)** · projet personnel, dépôt privé | Jeu d'arène multijoueur avec rendu Canvas, communication WebSocket et données persistées. Travail sur les mécaniques de jeu et l'architecture client/serveur. | TypeScript, Canvas 2D, WebSocket, Node.js, PostgreSQL |
 | **[📚 Catalogue de livres — Flask](https://github.com/JolanRolland/PROJET_FLASK)** · dépôt public | Application pédagogique pour consulter des livres et auteurs, gérer les auteurs et modifier les livres après connexion. [Voir la présentation détaillée →](https://github.com/JolanRolland/PROJET_FLASK#readme) | Python, Flask, SQLAlchemy, SQLite, Pytest |
+| **[🧰 AnvilUi](https://github.com/JolanRolland/AnvilUi)** · outil de création d'interfaces | Éditeur visuel avec aperçu en direct pour concevoir et prévisualiser des interfaces JSON UI de Minecraft Bedrock. | React, TypeScript, Vite, JSON UI |
 | **📖 Livre-Express** · projet universitaire | Application de librairie avec interface JavaFX et accès aux données en SQL via JDBC. | Java, JavaFX, SQL, JDBC |
 | **🐍 IA pour le jeu du serpent** · projet court | Déplacement autonome du serpent avec gestion des collisions et recherche de chemin. | Python, Git |
 
@@ -54,9 +55,3 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolanRolland&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;text_color=17234b" alt="Langages des dépôts publics de Jolan Rolland" height="170">
 </p>
-
-<sub>Ces cartes sont mises en cache par leurs services. La répartition des langages porte sur les dépôts publics et ne mesure pas mon niveau dans chaque technologie.</sub>
-
-## Échangeons
-
-Je suis ouvert aux échanges autour du **développement web**, du **backend** et de mon **stage de 2027**. Tu peux me retrouver sur [LinkedIn](https://www.linkedin.com/in/jolan-rolland-14982a389/).
