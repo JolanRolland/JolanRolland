@@ -18,7 +18,6 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 - 📍 Basé dans la région d'Orléans.
 - 🧩 J'aime résoudre des problèmes concrets et faire évoluer un projet de l'idée à une application utilisable.
 - 🔧 J'ai travaillé avec Python, Flask, TypeScript, React, PostgreSQL, Docker et Git.
-- 🎮 En ce moment, je développe [**Bonkumi**](https://bonkumi.com), un jeu d'arène multijoueur en temps réel.
 
 ## Technologies
 
@@ -28,7 +27,7 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 
 ## Expérience
 
-### <img src="https://download.logo.wine/logo/Robert_Bosch_GmbH/Robert_Bosch_GmbH-Logo.wine.png" alt="Bosch" height="34"> Stagiaire développeur backend / web
+### <img src="https://www.logo.wine/a/logo/Robert_Bosch_GmbH/Robert_Bosch_GmbH-Logo.wine.svg" alt="Bosch" width="112" height="28"> Stagiaire développeur backend / web
 
 J'ai participé au développement d'une **application web interne** et d'une **API REST** pour centraliser des données de projets. Ce stage m'a permis de travailler sur la structure des données, les routes de l'API et le fonctionnement d'une application utilisée dans un contexte professionnel.
 
