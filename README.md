@@ -49,11 +49,13 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 ## GitHub en chiffres
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JolanRolland&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;icon_color=3158e7&amp;text_color=17234b" alt="Statistiques GitHub de Jolan Rolland">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolanRolland&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;text_color=17234b" alt="Langages des dépôts publics de Jolan Rolland">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JolanRolland&amp;theme=github" alt="Contributions et dépôts publics de Jolan Rolland" width="700">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolanRolland&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;text_color=17234b" alt="Langages des dépôts publics de Jolan Rolland" height="170">
 </p>
 
-<sub>Ces cartes sont générées à partir de l'activité visible publiquement sur GitHub. Les projets privés n'y sont pas tous représentés.</sub>
+<sub>Ces cartes sont mises en cache par leurs services. La répartition des langages porte sur les dépôts publics et ne mesure pas mon niveau dans chaque technologie.</sub>
 
 ## Échangeons
 
