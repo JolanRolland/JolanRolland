@@ -1,55 +1,62 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Jolan Rolland — développement web et backend" width="100%">
+  <img src="./assets/header.svg" alt="Jolan Rolland — développement web, backend et jeux" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jolan-rolland-14982a389/"><img src="https://img.shields.io/badge/LinkedIn-voir%20mon%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Profil LinkedIn"></a>
-  <a href="https://github.com/JolanRolland/PROJET_FLASK"><img src="https://img.shields.io/badge/Projet%20%C3%A0%20la%20une-Flask-13BFAF?style=for-the-badge&logo=flask&logoColor=white" alt="Projet Flask"></a>
+  <a href="https://www.linkedin.com/in/jolan-rolland-14982a389/"><img src="https://img.shields.io/badge/LinkedIn-Me%20contacter-3158E7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/JolanRolland/PROJET_FLASK"><img src="https://img.shields.io/badge/Projet%20public-Catalogue%20Flask-17234B?style=for-the-badge&logo=flask&logoColor=white" alt="Projet Flask"></a>
 </p>
 
-## Bonjour, moi c'est Jolan 👋
+## Salut, moi c'est Jolan 👋
 
-Étudiant en **BUT Informatique à l'IUT d'Orléans**, j'aime concevoir des applications qui vont de l'interface à la base de données. Je m'intéresse particulièrement au **développement web et backend**, aux API et aux projets interactifs.
+Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire des applications complètes : penser l'interface, développer la logique métier, concevoir l'API et relier le tout à une base de données. Le web, le backend et les projets interactifs sont les domaines dans lesquels je veux progresser.
 
-> 🎯 **Je recherche un stage de 16 semaines à partir du 15 février 2027**, en développement web ou backend.
+> **Je recherche un stage de 16 semaines à partir du 15 février 2027** en développement web ou backend.
 
-### Ce que j'ai déjà construit
+### En quelques lignes
 
-- **Chez Bosch** : une application web interne et une API REST pour centraliser des données de projets, avec Python, Flask, PostgreSQL et Docker.
-- **Sur mes projets personnels et universitaires** : des applications complètes, de la gestion de livres en Flask jusqu'au jeu multijoueur en temps réel.
+- 📍 Basé dans la région d'Orléans.
+- 🧩 J'aime résoudre des problèmes concrets et faire évoluer un projet de l'idée à une application utilisable.
+- 🔧 J'ai travaillé avec Python, Flask, TypeScript, React, PostgreSQL, Docker et Git.
+- 🎮 En ce moment, je développe **Bonkumi**, un jeu d'arène multijoueur en temps réel.
 
-## Projets phares
+## Expérience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/JolanRolland/PROJET_FLASK">📚 Catalogue de livres · Flask</a></h3>
-      <p>Application pédagogique de catalogue de livres et d'auteurs : consultation des fiches, gestion des auteurs et modification des livres, avec authentification pour les actions d'édition.</p>
-      <p><code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>SQLite</code> <code>Pytest</code></p>
-      <a href="https://github.com/JolanRolland/PROJET_FLASK#readme">Voir le projet et sa documentation →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 Bonkumi · jeu d'arène multijoueur</h3>
-      <p>Jeu jouable en temps réel avec rendu Canvas, échanges WebSocket et données persistées dans PostgreSQL. J'y travaille sur l'expérience de jeu et l'architecture côté serveur.</p>
-      <p><code>TypeScript</code> <code>Canvas 2D</code> <code>WebSocket</code> <code>Node.js</code> <code>PostgreSQL</code></p>
-      <small>Projet en développement · dépôt privé</small>
-    </td>
-  </tr>
-</table>
+### Stagiaire développeur backend / web · Bosch
 
-**Autre réalisation :** *Livre-Express*, application de librairie développée en Java/JavaFX avec une base SQL et JDBC.
+J'ai participé au développement d'une **application web interne** et d'une **API REST** pour centraliser des données de projets. Ce stage m'a permis de travailler sur la structure des données, les routes de l'API et le fonctionnement d'une application utilisée dans un contexte professionnel.
 
-## Ma boîte à outils
+`Python` · `Flask` · `Flask-RESTX` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `Git`
 
-| Domaine | Technologies |
+## Projets sélectionnés
+
+| Projet | Ce que j'y ai construit | Technologies |
+| --- | --- | --- |
+| **🎮 Bonkumi** · projet personnel, dépôt privé | Jeu d'arène multijoueur avec rendu Canvas, communication WebSocket et données persistées. Travail sur les mécaniques de jeu et l'architecture client/serveur. | TypeScript, Canvas 2D, WebSocket, Node.js, PostgreSQL |
+| **[📚 Catalogue de livres — Flask](https://github.com/JolanRolland/PROJET_FLASK)** · dépôt public | Application pédagogique pour consulter des livres et auteurs, gérer les auteurs et modifier les livres après connexion. [Voir la présentation détaillée →](https://github.com/JolanRolland/PROJET_FLASK#readme) | Python, Flask, SQLAlchemy, SQLite, Pytest |
+| **📖 Livre-Express** · projet universitaire | Application de librairie avec interface JavaFX et accès aux données en SQL via JDBC. | Java, JavaFX, SQL, JDBC |
+| **🐍 IA pour le jeu du serpent** · projet court | Déplacement autonome du serpent avec gestion des collisions et recherche de chemin. | Python, Git |
+
+## Compétences
+
+| Domaine | Outils et langages |
 | --- | --- |
-| Web & interfaces | React, TypeScript, JavaScript, HTML, CSS, Canvas 2D |
-| Backend & API | Python, Flask, Node.js, API REST, WebSocket |
-| Données & outils | PostgreSQL, SQL, SQLAlchemy, Docker, Git, GitHub |
-| Autres projets | Java, JavaFX, JDBC |
+| **Web** | React, TypeScript, JavaScript, HTML, CSS, Canvas 2D |
+| **Backend** | Python, Flask, Flask-RESTX, Node.js, API REST, WebSocket |
+| **Bases de données** | PostgreSQL, SQL, SQLite, SQLAlchemy, JDBC |
+| **Développement** | Java, JavaFX, Docker, Git, GitHub, Pytest |
 
-## Me contacter
+## GitHub en chiffres
 
-Pour parler d'un **stage**, d'un projet ou simplement échanger autour du développement : [retrouve-moi sur LinkedIn](https://www.linkedin.com/in/jolan-rolland-14982a389/).
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JolanRolland&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;icon_color=3158e7&amp;text_color=17234b" alt="Statistiques GitHub de Jolan Rolland">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolanRolland&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;theme=default&amp;title_color=3158e7&amp;text_color=17234b" alt="Langages des dépôts publics de Jolan Rolland">
+</p>
 
-<p align="center"><sub>Construit avec curiosité, du premier écran à la dernière requête.</sub></p>
+<sub>Ces cartes sont générées à partir de l'activité visible publiquement sur GitHub. Les projets privés n'y sont pas tous représentés.</sub>
+
+## Échangeons
+
+Je suis ouvert aux échanges autour du **développement web**, du **backend** et de mon **stage de 2027**. Tu peux me retrouver sur [LinkedIn](https://www.linkedin.com/in/jolan-rolland-14982a389/).
+
+<p align="center"><sub>Imaginer. Développer. Améliorer.</sub></p>
