@@ -1,32 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jolan Rolland — développeur web et backend">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="55%" stop-color="#102442"/>
-      <stop offset="100%" stop-color="#0b3f4b"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#56e0c5"/>
-      <stop offset="100%" stop-color="#70a6ff"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
-  </defs>
-  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-  <circle cx="1030" cy="48" r="125" fill="#56e0c5" opacity=".13" filter="url(#glow)"/>
-  <circle cx="1090" cy="290" r="150" fill="#70a6ff" opacity=".12" filter="url(#glow)"/>
-  <g opacity=".18" stroke="#9bd8ff" stroke-width="1">
-    <path d="M790 0v320M845 0v320M900 0v320M955 0v320M1010 0v320M1065 0v320M1120 0v320M1175 0v320"/>
-    <path d="M770 40h430M770 95h430M770 150h430M770 205h430M770 260h430"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Jolan Rolland — développeur web et backend</title>
+  <desc id="desc">Bannière graphique crème et bleu, avec typographie éditoriale et motif de code.</desc>
+  <rect width="1200" height="340" rx="24" fill="#f5f4ef"/>
+  <path d="M766 0h410a24 24 0 0 1 24 24v292a24 24 0 0 1-24 24H766z" fill="#3158e7"/>
+  <path d="M0 72h766M0 268h766" stroke="#d7d8d6" stroke-width="1"/>
+  <path d="M690 0v340" stroke="#d7d8d6" stroke-width="1"/>
+  <circle cx="55" cy="44" r="9" fill="#3158e7"/>
+  <text x="78" y="49" fill="#14203b" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">PORTFOLIO / 2026</text>
+  <text x="48" y="162" fill="#111827" font-family="Arial,sans-serif" font-size="87" font-weight="800" letter-spacing="-5">JOLAN</text>
+  <text x="48" y="247" fill="#111827" font-family="Arial,sans-serif" font-size="87" font-weight="800" letter-spacing="-5">ROLLAND<tspan fill="#3158e7">.</tspan></text>
+  <text x="49" y="309" fill="#49536a" font-family="Arial,sans-serif" font-size="20" font-weight="600">Développement web <tspan fill="#3158e7">/</tspan> Backend <tspan fill="#3158e7">/</tspan> Jeux</text>
+  <g opacity=".23" stroke="#d6e0ff" stroke-width="1">
+    <path d="M808 28v285M851 28v285M894 28v285M937 28v285M980 28v285M1023 28v285M1066 28v285M1109 28v285M1152 28v285"/>
+    <path d="M790 54h380M790 97h380M790 140h380M790 183h380M790 226h380M790 269h380M790 312h380"/>
   </g>
-  <rect x="58" y="52" width="175" height="34" rx="17" fill="#56e0c5" opacity=".14"/>
-  <text x="78" y="74" fill="#8ef2dd" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="2">PORTFOLIO · DEV</text>
-  <text x="58" y="165" fill="#ffffff" font-family="Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2">Jolan Rolland</text>
-  <rect x="58" y="188" width="430" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="58" y="236" fill="#c4d7ea" font-family="Arial, sans-serif" font-size="23">Développement web · Backend · Projets interactifs</text>
-  <text x="58" y="277" fill="#82a5bd" font-family="Arial, sans-serif" font-size="16">BUT Informatique — Orléans</text>
-  <g fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
-    <path d="M904 111l-38 39 38 39"/>
-    <path d="M1019 111l38 39-38 39"/>
-    <path d="M986 102l-43 96"/>
-  </g>
+  <rect x="810" y="63" width="346" height="218" rx="18" fill="#17234b" stroke="#b5d6ff" stroke-opacity=".38" stroke-width="2"/>
+  <circle cx="838" cy="90" r="6" fill="#f1798b"/>
+  <circle cx="858" cy="90" r="6" fill="#f5c36e"/>
+  <circle cx="878" cy="90" r="6" fill="#79dab0"/>
+  <path d="M830 111h306" stroke="#4e5b83"/>
+  <text x="837" y="150" fill="#a9badf" font-family="Consolas,monospace" font-size="17">01  <tspan fill="#94f0c5">imaginer</tspan></text>
+  <text x="837" y="184" fill="#a9badf" font-family="Consolas,monospace" font-size="17">02  <tspan fill="#94f0c5">développer</tspan></text>
+  <text x="837" y="218" fill="#a9badf" font-family="Consolas,monospace" font-size="17">03  <tspan fill="#94f0c5">améliorer</tspan></text>
+  <path d="M835 246h106" stroke="#93f0c5" stroke-width="4" stroke-linecap="round"/>
 </svg>
