@@ -60,5 +60,3 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 ## Échangeons
 
 Je suis ouvert aux échanges autour du **développement web**, du **backend** et de mon **stage de 2027**. Tu peux me retrouver sur [LinkedIn](https://www.linkedin.com/in/jolan-rolland-14982a389/).
-
-<p align="center"><sub>Imaginer. Développer. Améliorer.</sub></p>
