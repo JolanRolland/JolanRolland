@@ -24,7 +24,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/JolanRolland/PROJET_FLASK">📚 Catalogue de livres · Flask</a></h3>
-      <p>Application web de gestion de livres et d'auteurs : consultation, création, modification et suppression, avec authentification pour les actions d'édition.</p>
+      <p>Application pédagogique de catalogue de livres et d'auteurs : consultation des fiches, gestion des auteurs et modification des livres, avec authentification pour les actions d'édition.</p>
       <p><code>Python</code> <code>Flask</code> <code>SQLAlchemy</code> <code>SQLite</code> <code>Pytest</code></p>
       <a href="https://github.com/JolanRolland/PROJET_FLASK#readme">Voir le projet et sa documentation →</a>
     </td>
