@@ -44,6 +44,12 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 | **📖 Livre-Express** · projet universitaire | Application de librairie avec interface JavaFX et accès aux données en SQL via JDBC. | Java, JavaFX, SQL, JDBC |
 | **🐍 IA pour le jeu du serpent** · projet court | Déplacement autonome du serpent avec gestion des collisions et recherche de chemin. | Python, Git |
 
+## IA et agents de développement
+
+J'intègre les outils d'IA à mon workflow de développement, notamment **Codex**. Je sais créer et utiliser des **skills** pour donner aux agents un contexte et des méthodes réutilisables, puis leur confier des tâches ciblées.
+
+Je m'en sers pour explorer un projet, découper un besoin, accélérer l'écriture et le débogage du code, et relire les changements. Je vérifie ensuite les résultats et garde la maîtrise des décisions techniques.
+
 ## Compétences
 
 | Domaine | Outils et langages |
@@ -52,6 +58,7 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 | **Backend** | Python, Flask, Flask-RESTX, Node.js, API REST, WebSocket |
 | **Bases de données** | PostgreSQL, SQL, SQLite, SQLAlchemy, JDBC |
 | **Développement** | Java, JavaFX, Docker, Git, GitHub, Pytest |
+| **IA et agents** | Codex, skills, agents IA, aide au code et à la revue |
 
 ## GitHub en chiffres
 
