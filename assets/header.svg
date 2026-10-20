@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Jolan Rolland — développeur web et backend</title>
-  <desc id="desc">Bannière graphique crème et bleu, avec typographie éditoriale et motif de code.</desc>
+  <desc id="desc">Bannière crème et bleu avec typographie éditoriale et formes géométriques.</desc>
   <rect width="1200" height="340" rx="24" fill="#f5f4ef"/>
   <path d="M766 0h410a24 24 0 0 1 24 24v292a24 24 0 0 1-24 24H766z" fill="#3158e7"/>
   <path d="M0 72h766M0 268h766" stroke="#d7d8d6" stroke-width="1"/>
@@ -14,13 +14,10 @@
     <path d="M808 28v285M851 28v285M894 28v285M937 28v285M980 28v285M1023 28v285M1066 28v285M1109 28v285M1152 28v285"/>
     <path d="M790 54h380M790 97h380M790 140h380M790 183h380M790 226h380M790 269h380M790 312h380"/>
   </g>
-  <rect x="810" y="63" width="346" height="218" rx="18" fill="#17234b" stroke="#b5d6ff" stroke-opacity=".38" stroke-width="2"/>
-  <circle cx="838" cy="90" r="6" fill="#f1798b"/>
-  <circle cx="858" cy="90" r="6" fill="#f5c36e"/>
-  <circle cx="878" cy="90" r="6" fill="#79dab0"/>
-  <path d="M830 111h306" stroke="#4e5b83"/>
-  <text x="837" y="150" fill="#a9badf" font-family="Consolas,monospace" font-size="17">01  <tspan fill="#94f0c5">imaginer</tspan></text>
-  <text x="837" y="184" fill="#a9badf" font-family="Consolas,monospace" font-size="17">02  <tspan fill="#94f0c5">développer</tspan></text>
-  <text x="837" y="218" fill="#a9badf" font-family="Consolas,monospace" font-size="17">03  <tspan fill="#94f0c5">améliorer</tspan></text>
-  <path d="M835 246h106" stroke="#93f0c5" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="982" cy="170" r="108" fill="#17234b" stroke="#b5d6ff" stroke-opacity=".45" stroke-width="2"/>
+  <circle cx="982" cy="170" r="77" fill="none" stroke="#93f0c5" stroke-width="2" stroke-dasharray="3 10"/>
+  <path d="M955 136l-31 34 31 34M1009 136l31 34-31 34" fill="none" stroke="#ffffff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="982" cy="170" r="7" fill="#93f0c5"/>
+  <circle cx="1087" cy="101" r="9" fill="#f1798b"/>
+  <circle cx="883" cy="242" r="7" fill="#f5c36e"/>
 </svg>
