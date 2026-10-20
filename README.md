@@ -28,7 +28,7 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 
 ## Expérience
 
-### <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bosch-logo.svg/500px-Bosch-logo.svg.png" alt="Bosch" height="34"> Stagiaire développeur backend / web
+### <img src="https://download.logo.wine/logo/Robert_Bosch_GmbH/Robert_Bosch_GmbH-Logo.wine.png" alt="Bosch" height="34"> Stagiaire développeur backend / web
 
 J'ai participé au développement d'une **application web interne** et d'une **API REST** pour centraliser des données de projets. Ce stage m'a permis de travailler sur la structure des données, les routes de l'API et le fonctionnement d'une application utilisée dans un contexte professionnel.
 
