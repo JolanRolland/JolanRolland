@@ -20,9 +20,15 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 - 🔧 J'ai travaillé avec Python, Flask, TypeScript, React, PostgreSQL, Docker et Git.
 - 🎮 En ce moment, je développe [**Bonkumi**](https://bonkumi.com), un jeu d'arène multijoueur en temps réel.
 
+## Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,ts,react,nodejs,postgres,docker,git,java,sqlite,vite,html,css&amp;theme=light&amp;perline=7" alt="Python, Flask, TypeScript, React, Node.js, PostgreSQL, Docker, Git, Java, SQLite, Vite, HTML et CSS">
+</p>
+
 ## Expérience
 
-### Stagiaire développeur backend / web · Bosch
+### <img src="https://cdn.simpleicons.org/bosch/EA0016" alt="Bosch" height="28"> Stagiaire développeur backend / web
 
 J'ai participé au développement d'une **application web interne** et d'une **API REST** pour centraliser des données de projets. Ce stage m'a permis de travailler sur la structure des données, les routes de l'API et le fonctionnement d'une application utilisée dans un contexte professionnel.
 
@@ -32,9 +38,9 @@ J'ai participé au développement d'une **application web interne** et d'une **A
 
 | Projet | Ce que j'y ai construit | Technologies |
 | --- | --- | --- |
-| **[🎮 Bonkumi](https://bonkumi.com)** · projet personnel, dépôt privé | Jeu d'arène multijoueur avec rendu Canvas, communication WebSocket et données persistées. Travail sur les mécaniques de jeu et l'architecture client/serveur. | TypeScript, Canvas 2D, WebSocket, Node.js, PostgreSQL |
+| <img src="https://bonkumi.com/assets/branding/bonkumi-logo.webp" alt="Logo Bonkumi" height="28"> **[Bonkumi](https://bonkumi.com)** · projet personnel | Jeu d'arène multijoueur avec rendu Canvas, communication WebSocket et données persistées. Travail sur les mécaniques de jeu et l'architecture client/serveur. | TypeScript, Canvas 2D, WebSocket, Node.js, PostgreSQL |
 | **[📚 Catalogue de livres — Flask](https://github.com/JolanRolland/PROJET_FLASK)** · dépôt public | Application pédagogique pour consulter des livres et auteurs, gérer les auteurs et modifier les livres après connexion. [Voir la présentation détaillée →](https://github.com/JolanRolland/PROJET_FLASK#readme) | Python, Flask, SQLAlchemy, SQLite, Pytest |
-| **[🧰 AnvilUi](https://anvilui.com)** · outil de création d'interfaces | Éditeur visuel avec aperçu en direct pour concevoir et prévisualiser des interfaces JSON UI de Minecraft Bedrock. | React, TypeScript, Vite, JSON UI |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://anvilui.com/branding/anvil-ui-white.svg"><img src="https://anvilui.com/branding/anvil-ui-black.svg" alt="Logo Anvil UI" height="28"></picture> **[AnvilUi](https://anvilui.com)** · outil de création d'interfaces | Éditeur visuel avec aperçu en direct pour concevoir et prévisualiser des interfaces JSON UI de Minecraft Bedrock. | React, TypeScript, Vite, JSON UI |
 | **📖 Livre-Express** · projet universitaire | Application de librairie avec interface JavaFX et accès aux données en SQL via JDBC. | Java, JavaFX, SQL, JDBC |
 | **🐍 IA pour le jeu du serpent** · projet court | Déplacement autonome du serpent avec gestion des collisions et recherche de chemin. | Python, Git |
 
