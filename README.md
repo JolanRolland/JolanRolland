@@ -23,7 +23,7 @@ Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire
 ## Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,ts,react,nodejs,postgres,docker,git,java,sqlite,vite,html,css&amp;theme=light&amp;perline=7" alt="Python, Flask, TypeScript, React, Node.js, PostgreSQL, Docker, Git, Java, SQLite, Vite, HTML et CSS">
+  <img src="https://skillicons.dev/icons?i=py,flask,ts,react,nodejs,postgres,docker,git,github,java,sqlite,vite,html,css&amp;theme=light&amp;perline=7" alt="Python, Flask, TypeScript, React, Node.js, PostgreSQL, Docker, Git, GitHub, Java, SQLite, Vite, HTML et CSS">
 </p>
 
 ## Expérience
