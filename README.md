@@ -11,7 +11,7 @@
 
 Je suis étudiant en **BUT Informatique à l'IUT d'Orléans**. J'aime construire des applications complètes : penser l'interface, développer la logique métier, concevoir l'API et relier le tout à une base de données. Le web, le backend et les projets interactifs sont les domaines dans lesquels je veux progresser.
 
-> **Je recherche un stage de 16 semaines à partir du 15 février 2027** en développement web ou backend.
+> **Je recherche un stage de 16 semaines+ à partir du 15 février 2027** en développement web ou backend.
 
 ### En quelques lignes
 
